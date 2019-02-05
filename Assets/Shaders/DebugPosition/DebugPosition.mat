@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Debug
+  m_Name: DebugPosition
   m_Shader: {fileID: 4800000, guid: fdb3d4f5ac1e8274bbb163958f3d3433, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -37,4 +37,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_FBCC421D: 1234.5
+    - _Digits: 3
+    - _PositionScale: 1
     m_Colors: []
